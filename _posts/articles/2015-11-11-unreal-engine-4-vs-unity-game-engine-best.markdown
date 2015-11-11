@@ -3,7 +3,7 @@ layout: post
 title:  "Which game engine is best for you?"
 excerpt: "UE4 vs Unity"
 date:   2015-11-06 16:40:00
-categories: unreal unity gameengine
+categories: articles
 tag: [unreal,unity,game-engine]
 image:
   feature: unreal-vs-unity-featured.jpg
