@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+excerpt: "The first post."
 date:   2015-11-10 09:46:53
 categories: jekyll update
 ---
